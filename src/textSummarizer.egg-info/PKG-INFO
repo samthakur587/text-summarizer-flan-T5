@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: fine-tuning T5 for summarization
+Home-page: https://github.com/samthakur587/text-summarizer-flan-T5
+Author: samthakur587
+Author-email: samunder268@gmail.com
+Project-URL: Bug Tracker, https://github.com/samthakur587/text-summarizer-flan-T5/issues
+License-File: LICENSE
+
+# first commit 
